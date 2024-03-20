@@ -1,5 +1,5 @@
 # Questoes-Resolvidas
 
-Conjunto de questoes que foram resolvidas durante os meus estudos, começando de um nível de dificuldade básico e aprimorando conforme as questões.
+Conjunto de questoes que foram resolvidas durante os meus estudos. Cada pasta pertinente à plataforma de origem das questões.
 
 **Linguagem utilizada:** *C++*
